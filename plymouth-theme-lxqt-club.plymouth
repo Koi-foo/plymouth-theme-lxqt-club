@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Alt club lxqt
+Description=Simple and lightweight theme for lxqt plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plymouth-theme-lxqt-club
+ScriptFile=/usr/share/plymouth/themes/plymouth-theme-lxqt-club/plymouth-theme-lxqt-club.script
