@@ -1,6 +1,6 @@
 # Plymouth theme altclub lxqt
 
-**Source Code:** https://github.com/Koi-foo/kernel-manager.git
+**Source Code:** https://github.com/Koi-foo/plymouth-theme-lxqt-club
 
 ## Summary:
 Plymouth "LXQT" theme
@@ -9,8 +9,9 @@ Plymouth "LXQT" theme
 Theme for the lxqt desktop loading screen.
 
 ## Install
-
-* Recommended installation to /opt directory
+* Unpack the archive. Rename to plymouth-theme-lxqt-altclub.
+* Copy the plymouth-theme-lxqt-altclub directory to /usr/share/plymouth/themes
+To install the theme # update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/plymouth-theme-lxqt-altclub/plymouth-theme-lxqt-altclub.plymouth ; plymouth-set-default-theme -R plymouth-theme-lxqt-altclub
 
 
 ## Changelog
